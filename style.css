@@ -1,0 +1,50 @@
+.section-title  {
+    padding-bottom: 15px;
+    font-size: 50px;
+}
+
+.search  {
+    margin: 10px;
+}
+
+h3  {
+    padding-left: 20px;
+}
+
+ul  {
+    list-style-type: none;
+}
+
+.forecast-header  {
+    margin: 10px;
+}
+
+#forecast-cards  {
+    justify-content: space-around;
+}
+
+.card-content  {
+    margin: 30px;
+}
+
+.current-weather,
+.weather-input  {
+    margin: 5px;
+}
+
+.weather-container  {
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 50px 50px;
+    border-radius: 10px;
+    opacity: 80%;
+}
+
+.card  {
+    background-color: #3a82be;
+}
+
+.btn  {
+    margin: 5px;
+    background-color: #22399e;
+}
